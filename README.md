@@ -5,6 +5,6 @@
 - 📫 I can be reached by email: gmirides@gmail.com and Twitter@gridez68
 
 <!---
-grides/grides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gipmirides/grides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
